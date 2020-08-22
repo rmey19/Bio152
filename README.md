@@ -17,3 +17,4 @@ Examples of Lab Activities based on biolgical concepts learned in Bio151
 	  * ABO blood typing   
 	  * Molarity  
 	  * Dilution  
+	  * Testing for macromolecules
