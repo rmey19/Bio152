@@ -27,6 +27,6 @@ Food for thought
 * Do you know who [**Henrietta Lacks**](https://en.wikipedia.org/wiki/Henrietta_Lacks) was?
 
 * Do you know what these terms mean?
-_PCR, RNAi, CRISPR-Cas9, Restriction enyme
+[_PCR](https://www.genome.gov/about-genomics/fact-sheets/Polymerase-Chain-Reaction-Fact-Sheet), [RNAi](https://www.ncbi.nlm.nih.gov/probe/docs/techrnai/), [CRISPR-Cas9](https://ghr.nlm.nih.gov/primer/genomicresearch/genomeediting), [Restriction enyme](https://www.nature.com/scitable/topicpage/restriction-enzymes-545/)
 
-* Do you know what **Vivien Thomas** is known for?
+* Do you know what [**Vivien Thomas**](https://en.wikipedia.org/wiki/Vivien_Thomas) is known for?
