@@ -18,3 +18,15 @@ Examples of Lab Activities based on biolgical concepts learned in Bio151
 	  * Molarity  
 	  * Dilution  
 	  * Testing for macromolecules
+
+Food for thought
+
+Do you know what discovery these scientists were famous for?
+Watson and Crick, Carl Linnaeus, Barbara McClintock
+
+Do you know who Henrietta Lacks was?
+
+Do you know what these terms mean?
+PCR, RNAi, CRISPR-Cas9, Restriction enyme
+
+Do you know what Vivien Thomas is known for?
