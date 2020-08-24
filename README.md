@@ -22,7 +22,7 @@ Examples of Lab Activities based on biolgical concepts learned in Bio151
 Food for thought
 
 * Do you know what discovery these scientists were famous for?
-**Watson and Crick**, **Carl Linnaeus**, **Barbara McClintock**
+[**Watson and Crick**](https://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397/), **Carl Linnaeus**, **Barbara McClintock**
 
 * Do you know who **Henrietta Lacks** was?
 
